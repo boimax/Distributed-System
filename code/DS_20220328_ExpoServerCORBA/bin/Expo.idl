@@ -1,0 +1,5 @@
+module ExpoModule {
+    interface Expo{
+        long expo(in long a, in long b);
+    };
+};
